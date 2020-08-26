@@ -4,7 +4,9 @@ A templated custome service worker for your react apps created by "create-react-
 ### Setting up
 
  - Create a new empty js file, **sw.js** in the **public** folder.
+ 
  - Copy the code snippet [in this folder](https://github.com/mayeedwin/custom-service-worker-react-app/blob/master/src/sw.js) to it.
+ 
  - Replace the code snippet in **serviceWorker.js** with the code snippet in the new [serviceWorker.js here](https://github.com/mayeedwin/custom-service-worker-react-app/blob/master/src/config/serviceWorker.js)
  
  ### Build your React PWA
