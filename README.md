@@ -9,10 +9,12 @@ A templated custome service worker for your react apps created by "create-react-
  
  ### Build your React PWA
  
- On running `npm build`, **sw.js** will be copied into the build folder with the 
- new custom [Workbox] config for cache strategies.
+ - On running `npm build`, **sw.js** will be copied into the build folder with the 
+ new custom [Workbox](https://developers.google.com/web/tools/workbox) config for cache strategies.
  
- Use this [this VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mayeedwin.vscode-pwa) I have created to easily get the Workbox Code Snippets
- for use in your Service Workers.
+ - Use this [this VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mayeedwin.vscode-pwa) to easily get the Workbox Code Snippets
+ for use in your Workbox Service Workers.
+ 
+ - Learn more about Workbox [here](https://developers.google.com/web/tools/workbox).
  
  Enjoy!
