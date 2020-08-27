@@ -1,5 +1,5 @@
 ## Custom Workbox Service Worker for React Apps
-A templated custom service worker for your react apps created by "create-react-app"
+A templated custom service worker for your react apps created with "create-react-app"
 
 ### Setting up
 
